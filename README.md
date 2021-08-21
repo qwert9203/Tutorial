@@ -1,2 +1,2 @@
 # Tutorial
-## [GitHub](github/readme.md)
+## [GitHub](github)
